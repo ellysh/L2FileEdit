@@ -1,0 +1,10 @@
+DDF files updated by Sakaszli
+
+Missing files:
+
+Tauti\Npcgrp.txt
+Tauti\DynamicContentsName-e.txt
+Tauti\Chargrp.txt
+Interlude\\ddfs\helmetgrp.ddf
+Interlude\\ddfs\hairaccessarygrp.ddf
+Harmony\DynamicContentsName-e.txt
